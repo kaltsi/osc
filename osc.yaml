@@ -1,7 +1,7 @@
 Name: osc
 Summary: OpenSUSE Build Service Commander
 Version: 0.135.1
-Release: mer1
+Release: mer2
 Group: Development/Tools/Other
 License: GPL v2 or later
 #SCM: git://github.com/Merproject/osc.git

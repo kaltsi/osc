@@ -1,3 +1,6 @@
+* Fri Mar 15 2013 Juha Kallioinen <juha.kallioinen@jollamobile.com> - 0.135.1-mer2
+- Add architecture and scheduler maps
+
 * Wed Jul 25 2012 David Greaves <david@dgreaves.com> - 0.135.1-mer1
 - New upstream 0.135.1
 - Add support for copyprj api call
